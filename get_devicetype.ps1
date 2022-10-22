@@ -1,10 +1,10 @@
 ﻿<#
   Name: get_devicetype
   Version: 1.0
-  Created:	October, 2022
+  Created: October, 2022
   Created By: Vinodh G gvinodh@vmware.com
 
-  Description: This Script returns the type of device (Laptop or Desktop)
+  Description: The Script returns the type of device (Laptop or Desktop)
 
   Execution Context: System
   Execution Architecture: Auto
